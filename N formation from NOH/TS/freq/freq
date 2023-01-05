@@ -1,0 +1,123 @@
+Processing OUTCAR
+Found complete differences for atom 1 in direction 0
+Found complete differences for atom 1 in direction 1
+Found complete differences for atom 1 in direction 2
+Found complete differences for atom 2 in direction 0
+Found complete differences for atom 2 in direction 1
+Found complete differences for atom 2 in direction 2
+Found complete differences for atom 3 in direction 0
+Found complete differences for atom 3 in direction 1
+Found complete differences for atom 3 in direction 2
+Found complete differences for atom 4 in direction 0
+Found complete differences for atom 4 in direction 1
+Found complete differences for atom 4 in direction 2
+Found complete differences for atom 5 in direction 0
+Found complete differences for atom 5 in direction 1
+Found complete differences for atom 5 in direction 2
+Found complete differences for atom 6 in direction 0
+Found complete differences for atom 6 in direction 1
+Found complete differences for atom 6 in direction 2
+Found complete differences for atom 7 in direction 0
+Found complete differences for atom 7 in direction 1
+Found complete differences for atom 7 in direction 2
+Real Frequency: 106.98234698 terahertz   3568.54697520 cm^-1
+Real Frequency: 106.59804228 terahertz   3555.72795016 cm^-1
+Real Frequency: 85.59497208 terahertz   2855.14094000 cm^-1
+Real Frequency: 47.65912104 terahertz   1589.73715789 cm^-1
+Real Frequency: 35.87662841 terahertz   1196.71550885 cm^-1
+Real Frequency: 35.03617727 terahertz   1168.68107643 cm^-1
+Real Frequency: 32.61895779 terahertz   1088.05131367 cm^-1
+Real Frequency: 20.86289386 terahertz   695.91123102 cm^-1
+Real Frequency: 18.57341902 terahertz   619.54257065 cm^-1
+Real Frequency: 14.83663788 terahertz   494.89696856 cm^-1
+Real Frequency: 12.30407966 terahertz   410.41991971 cm^-1
+Real Frequency: 11.65634904 terahertz   388.81395189 cm^-1
+Real Frequency: 10.56306067 terahertz   352.34577728 cm^-1
+Real Frequency: 10.02796297 terahertz   334.49683927 cm^-1
+Real Frequency: 9.10931220 terahertz   303.85394797 cm^-1
+Real Frequency: 7.72651924 terahertz   257.72893976 cm^-1
+Real Frequency: 7.33996732 terahertz   244.83495581 cm^-1
+Real Frequency: 4.24222328 terahertz   141.50533682 cm^-1
+Real Frequency: 3.12824264 terahertz   104.34694251 cm^-1
+Real Frequency: 1.69788403 terahertz   56.63531484 cm^-1
+Imaginary Frequency: 21.02559458 terahertz   701.33834273 cm^-1
+ -0.043287  -0.033699   0.021995 
+ -0.018939   0.007446  -0.000988 
+  0.133659   0.041287  -0.020418 
+  0.080198   0.194557   0.892599 
+ -0.057721  -0.018856  -0.101596 
+ -0.116581  -0.038266   0.140046 
+  0.151349   0.010586  -0.251777 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+  0.000000   0.000000   0.000000 
+ZPE = 1.20436846 eV = 27.77333890 kcal/mol
+EVIB (eV) for Temp (180.00 K, 273.15 K, 298.15 K)
+0.05608041
+0.12756545
+0.14980241
+TSVIB (eV) for Temp (180.00 K, 273.15 K, 298.15 K)
+0.09638394
+0.23282860
+0.27735406
